@@ -11,7 +11,7 @@ Hello World 👋, I'm AsMax
 
 ![](https://komarev.com/ghpvc/?username=asmax15)
 
-*Some of my projects:*
+**Some of my projects:**
 
 **- [SimpleWarp](https://github.com/asmax15/SimpleWarp)**
 
