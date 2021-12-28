@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello World 👋, I'm AsMax
+Hey 👋, I'm AsMax
 </h1>
 <h3 align="center">High school student from Germany</h3>
 
